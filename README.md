@@ -4,7 +4,7 @@ A passionate young student that is keen to explore new things and create innovat
 
 ## 🏗️ What I'm Building
 
-<Project RFID STUDENT PICKUP SYSTEM > 
+Project RFID STUDENT PICKUP SYSTEM 
 
 ## 🛠️ Tools I Use
  
