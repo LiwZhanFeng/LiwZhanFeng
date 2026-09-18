@@ -4,9 +4,10 @@ A passionate young student that is keen to explore new things and create innovat
 
 ## 🏗️ What I'm Building
 
-Project RFID STUDENT PICKUP SYSTEM 
+Project RFID STUDENT PICKUP SYSTEM
 
-project lost and found device (i did coding)
+project lost and found device YIC 2024 (i did coding)[lost and found](https://docs.google.com/presentation/d/1LsE_PMOeUFkv4msau6G4VDjrV2jTqzi6rBFEL1geM7U) 
+ 
 
 Project voluntree YIC26 (i did coding)[Voluntree](https://canva.link/l9zmzi20r0arhx7)
 
